@@ -1,2 +1,3 @@
 # Ruby-Exercises
-Exercises on Introductory Ruby syntax
+This repository contains completed exercises. 
+The goal of the repository is to practice commiting code to Github while learning foundational Ruby. 
