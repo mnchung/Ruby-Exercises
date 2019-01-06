@@ -1,4 +1,4 @@
-=start
+=begin
 This small app is created for users to store movie titles and ratings. This
 is done by creating a hash that is modified with CRUD capabilities, through actions
 provided by the user 
