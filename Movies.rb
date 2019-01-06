@@ -5,8 +5,8 @@ provided by the user
 =end
 
 movies = {
-	Minions: 4
-  Oldboy: 5
+	Minions: 4,
+  	Oldboy: 5
   }
 
 puts "What would you like to do? "
