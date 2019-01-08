@@ -32,7 +32,7 @@ when "update"
     puts "That movie is not in here. Use 'Add'!"
   else
     puts "What's the new rating?"
-    raint = gets.chomp
+    rating = gets.chomp
     movies[title.to_sym] = rating.to_i
   end
   
